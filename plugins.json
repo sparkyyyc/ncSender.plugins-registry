@@ -267,11 +267,10 @@
     "iconUrl": "https://raw.githubusercontent.com/SparksTech-ca/ncsender-plugin-wledstatus/main/icon.png",
     "repository": "https://github.com/SparksTech-ca/ncsender-plugin-wledstatus",
     "releaseUrl": "https://github.com/SparksTech-ca/ncsender-plugin-wledstatus/releases",
-    "minAppVersion": "2.0.88",
+    "minAppVersion": "2.0.149",
     "platforms": {
-      "v1": "0.3.111",
-      "pro-v1": "0.3.111",
-      "pro-v2": "2.0.0"
+      "pro-v2": "2.0.149"
     }
-  },
+  }
 ]
+ 
